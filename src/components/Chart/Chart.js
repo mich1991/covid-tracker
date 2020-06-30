@@ -29,6 +29,7 @@ const Chart = ({ data: { confirmed, recovered, deaths }, country }) => {
                         backgroundColor: "rgba(255,0,0,0.5)",
                         fill: true,
                     },
+
                 ],
             }}
         />
